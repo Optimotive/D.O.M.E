@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roman/Optimotive-Development/Optimotive-DOME/domeMain.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+string
+-
+opencv2/opencv.hpp
+/home/roman/Optimotive-Development/Optimotive-DOME/opencv2/opencv.hpp
+
